@@ -1,6 +1,6 @@
 # 🌌 Javaverse
 
-![HTMl 5](https://img.shields.io/badge/HTML-5-informational?style=flat&logo=html&logoColor=orange)
+![HTMl 5](https://img.shields.io/badge/HTML-5-informational?style=flat&logo=html5&logoColor=orange)
 ![CSS 3](https://img.shields.io/badge/CSS-3-informational?style=flat&logo=css&logoColor=blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-informational?style=flat&logo=javascript&logoColor=yellow)
 ![Status](https://img.shields.io/badge/Status-In%20Progress-purple)
