@@ -1,8 +1,8 @@
 # 🌌 Javaverse
 
-![HTML5](https://img.shields.io/badge/HTML-5-informational?style=flat&logo=java&logoColor=white)
-![CSS 3](https://img.shields.io/badge/CSS-3-informational?style=flat&logo=java&logoColor=white)
-![Git](https://img.shields.io/badge/Git-Bash-informational?style=flat&logo=git&logoColor=white)
+![HTMl 5](https://img.shields.io/badge/HTML-5-informational?style=flat&logo=html&logoColor=orange)
+![CSS 3](https://img.shields.io/badge/CSS-3-informational?style=flat&logo=css&logoColor=blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-informational?style=flat&logo=javascript&logoColor=yellow)
 ![Status](https://img.shields.io/badge/Status-In%20Progress-purple)
 
 🚀 Bem-vindo(a) ao **Javaverse**, meu universo paralelo de Java!  
@@ -46,4 +46,3 @@ cd javaverse
 # Compile e execute o projeto principal
 javac Main.java
 java Main
-
